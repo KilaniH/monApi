@@ -1,0 +1,40 @@
+{
+    "seminaires": [
+        {
+            "id": 1,
+            "datesem": "01 au 03 Février 2024",
+            "theme": "La loi de finances 2024",
+            "idformateur": "Sami Thabet",
+            "lieu": "Hôtel Paris les berges du lac",
+            "mode": "inter entreprises"
+        },
+        {
+            "id": 2,
+            "datesem": "15 au 18 Mars 2024",
+            "theme": "La comptabilité générale pour les non comptables",
+            "idformateur": "01234567",
+            "lieu": "Hôtel Concorde les berges du lac",
+            "mode": "inter entreprises"
+        },
+        {
+            "id": 3,
+            "datesem": "18 et 19 Avril 2024",
+            "theme": "Excel Intermédiaire",
+            "idformateur": "Halim Kilani",
+            "lieu": "Hôtel Novotel - Ave Mohamed V",
+            "mode": "inter entreprises"
+        }
+    ],
+    "formateurs": [
+        {
+            "id": "01234567", 
+            "nom": "Youssef Abouda"
+        },{
+            "id": "000085116", 
+            "nom": "Halim Kilani"
+        },{
+            "id": "01919191", 
+            "nom": "Sami Thabet"
+        } 
+    ]
+}
