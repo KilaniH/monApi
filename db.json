@@ -36,5 +36,23 @@
             "id": "01919191", 
             "nom": "Sami Thabet"
         } 
+    ],
+    "societes": [
+        {
+            "id": "STEG",
+            "raison": "Société tunisienne de l'électricité et du gaz",
+            "tel": "71 239 222 / 71 341 311",
+            "Adresse" : "38 rue Kamel Ataturk 1080 Tunis"
+        }
+    ],
+    "cabinets": [
+        {
+            "id": "TFC",
+            "raison": "Toguether For Challenge"
+        },
+        {
+            "id": "H-T",
+            "raison": "Hi-Tech Training and Advice academy"
+        }
     ]
 }
